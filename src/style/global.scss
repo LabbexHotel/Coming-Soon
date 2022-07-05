@@ -1,0 +1,23 @@
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.Proximamente {
+  background: linear-gradient(0deg, #1e272efd, #1e272efd),
+    url("https://cdn.jsdelivr.net/gh/LabbexHotel/CDN@main/YbOwfI.png");
+  width: 100vw;
+  height: 100vh;
+  .Container {
+    width: 1200px;
+    margin: 0 auto;
+    height: 100vh;
+  }
+  .ButtonPowered {
+    position: absolute;
+    top: 0;
+  }
+}
